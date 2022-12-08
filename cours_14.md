@@ -12,7 +12,9 @@ Suite d'un jeu de combat de pokemon réaliser par la compagnie Bandai Namoco. Da
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
-![scenarimage](https://user-images.githubusercontent.com/112107636/206339081-7b0fa176-a284-4ce6-9cd4-7c2e01965c40.png)
+![scenarimage ](https://user-images.githubusercontent.com/112107636/206357949-51fa73ab-0115-45d3-a507-a20160e2cdf8.png)
+[scenarimage .pdf](https://github.com/2207665/Journal_de_Bord_semaines_8_15_Etienne_Tremblay/files/10182134/scenarimage.pdf)
+
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
